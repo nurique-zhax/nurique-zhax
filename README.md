@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/nuradil-zhaxylyk/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="discordapp.com/users/.nurique](https://discordapp.com/users/.nurique" target="_blank">
+  <a href="https://discordapp.com/users/.nurique" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="mailto:boramba3ev@gmail.com" target="_blank">
