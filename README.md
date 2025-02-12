@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am 24 years old Java Backend Developer and B.Sc. in Informatics at CULS Prague.<br><br>👨‍💻Currently I'm working as Java Backend Developer at NITEC</p>
+<p align="left">I am 24 years old Java Software Engineer and B.Sc. in Informatics at CULS Prague.<br><br>👨‍💻Currently I'm working as Java Backend Developer at NITEC</p>
 
 ###
 
